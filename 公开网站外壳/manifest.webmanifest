@@ -1,0 +1,12 @@
+{
+ "name":"数字能量 · 个人教材分析助手",
+ "short_name":"数字能量",
+ "description":"离线优先的数字能量教材规则分析工具",
+ "start_url":"./",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#f9faf6",
+ "theme_color":"#143f39",
+ "lang":"zh-CN",
+ "icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
